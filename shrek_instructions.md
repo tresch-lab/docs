@@ -26,7 +26,7 @@
 
 ## Build Image
 
-`docker image build -t dlc_username/dlcdocker`
+`docker image build -t dlc_username/dlcdocker .`
 
 ## Run Container
 
